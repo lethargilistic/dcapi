@@ -10,4 +10,4 @@ early stages.
 
 Here is an example GET request for a character's Japanese name:
 
-`GET [apiurl]/v0/character/1/name/japanese/kanji`
+`GET [apiurl]/v0/character/1`
