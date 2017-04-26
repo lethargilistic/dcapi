@@ -1,0 +1,42 @@
+[{
+	"id": 1,
+	"name": {
+		"japanese": {
+			"romanized": "Ai Haibara",
+			"kanji": "灰原 哀"
+		},
+		"english": {
+			"anime": "Vi Graythorn",
+			"manga": "Anita Hailey"
+		}
+	},
+	"image": "Ai Haibara Profile.jpg",
+	"age": {
+		"real": 18,
+		"apoptoxin": "6 or 7"
+	},
+	"gender": "F",
+	"date-of-birth": "Unknown",
+	"occupation": ["Teitan Elementary School student", "Detective Boys member"],
+	"relatives": [{
+		"name": "Akemi Miyano",
+		"relation": "older sister"
+	}, {
+		"name": "Elena Miyano",
+		"relation": "mother"
+	}, {
+		"name": "Atsushi Miyano",
+		"relation": "father"
+	}],
+	"nickname": ["Haibara (by Conan)", "Ai-chan (by Ayumi and Ran)", "Ai-kun (by Hiroshi Agasa)", "The evil-eyed yawny girl (once by Conan)", "Princess (by Subaru)"],
+	"alias": ["Shiho Miyano (real name)", "Sherry"],
+	"first-appearance": {
+		"manga": ["16 (In a silhouette)", "176 (1st full appearance)"],
+		"anime": ["129"]
+	},
+	"cases-solved": 0,
+	"keyhole": 18,
+	"japanese-voice": "Megumi Hayashibara",
+	"english-voice": "Brina Palencia",
+	"drama-actor": ["Kyoka Shibata (Ai Haibara)", "Yu Kashii (Shiho Miyano)"]
+}]
