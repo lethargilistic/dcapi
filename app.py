@@ -8,8 +8,8 @@ with open('data/json/characters.json', 'r') as datafile:
     characters_dict = json.loads(datafile.read())
 
 @app.route('/')
-def hello():
-    return "There is one truth!"
+def there_is_always_one_truth():
+    return "真実はいつもひとつ！"
 
 @app.route('/character/<int:character_id>')
 @service.json
