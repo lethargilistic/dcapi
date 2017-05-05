@@ -32,9 +32,37 @@
 	},
 	"cases_solved": 0,
 	"keyhole": 18,
-    "voice": {
-        "japanese": "Megumi Hayashibara",
-        "english": "Brina Palencia"
-    },
+	"voice": {
+		"japanese": "Megumi Hayashibara",
+		"english": "Brina Palencia"
+	},
 	"drama_actor": ["Kyoka Shibata (Ai Haibara)", "Yu Kashii (Shiho Miyano)"]
+}, {
+	"id": 2,
+	"name": {
+		"japanese": {
+			"romanized": "Gin",
+			"kanji": "ジン"
+		},
+		"english": {
+			"anime": "Melchior",
+			"manga": "Melchior"
+		}
+	},
+	"age": "Unknown",
+	"gender": "M",
+	"date_of_birth": "Unknown",
+	"occupation": ["Black Organization member"],
+	"relatives": [],
+	"nickname": ["Aniki (by Vodka)", "Koibito-san (by Shuichi Akai)"],
+	"first_appearance": {
+		"manga": 1,
+		"anime": 1
+	},
+	"cases_solved": 0,
+	"voice": {
+		"japanese": "Yukitoshi Hori",
+		"english": "Troy Baker"
+	},
+	"drama_actor": ["Kuranosuke Sasaki"]
 }]
