@@ -31,4 +31,24 @@ def there_is_always_one_truth():
 def character(character_id):
     return db(Character.id == character_id).select().first()
    
+@app.route('/character/<str:name>')
+@service.json
+def search_character(name):
 
+    roman = db(Character.romanized_name == name).select().first()
+    if roman:
+        return {**{'status':200}, **roman}
+
+    english_anime = db(Character.english_anime_name == name).select().first()
+    if english_anime:
+        return {**{'status':200}, **english_anime}
+
+    english_manga = db(Character.english_manga_name == name).select().first()
+    if english_manga:
+        return {**{'status':200}, **(english_manga.as_dict())}
+
+    kanji = db(Character.kanji_name == name).select().first()
+    if kanji:
+        return {**{'status':200}, **(kanji.as_dict())}
+
+    return {'status': 404, 'message':'Character not found'}
