@@ -17,11 +17,13 @@ is in early stages.
 
 2. Install Weppy. `pip install weppy`
 
-3. Initialize the database. `weppy -a dcapi setup`
+3. Create `keys.py` and define `DB_PIPE_KEY` as a `str` for use as your database key.
 
-4. Run the Weppy development server. `weppy -a dcapi run`
+4. Initialize the database. `weppy -a dcapi setup`
 
-5. Make the API calls. Weppy defaults to `127.0.0.1:8000`.
+5. Run the Weppy development server. `weppy -a dcapi run`
+
+6. Make the API calls. Weppy defaults to `127.0.0.1:8000`.
 
 ## Example Usage
 Here is an example GET request for data on a character:
