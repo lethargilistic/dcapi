@@ -41,3 +41,4 @@ You can also search a character by name, whether that's their name in Japanese o
 
 ## Other TODO
 * Migrate from SQLite to PostgreSQL.
+* Create a command to set the database key? 770?
