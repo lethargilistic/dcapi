@@ -21,7 +21,7 @@ is in early stages.
 
 4. Run the Weppy development server. `weppy -a dcapi run`
 
-5. Make the API calls.
+5. Make the API calls. Weppy defaults to `127.0.0.1:8000`.
 
 ## Example Usage
 Here is an example GET request for data on a character:
