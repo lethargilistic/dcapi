@@ -49,7 +49,7 @@
 			"manga": "Melchior"
 		}
 	},
-	"age": "Unknown",
+	"age": 0,
 	"gender": "M",
 	"date_of_birth": "Unknown",
 	"occupation": ["Black Organization member"],
@@ -60,6 +60,7 @@
 		"anime": 1
 	},
 	"cases_solved": 0,
+	"keyhole": 0,
 	"voice": {
 		"japanese": "Yukitoshi Hori",
 		"english": "Troy Baker"
