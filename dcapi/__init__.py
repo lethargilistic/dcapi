@@ -5,9 +5,9 @@ from weppy.tools import service
 from weppy.orm import Database, Model, Field
 from weppy.sessions import SessionCookieManager
 
-from build import build_all
-from keys import DB_PIPE_KEY
-from models import Character
+from .build import build_all
+from .keys import DB_PIPE_KEY
+from .models import Character
 
 app = App(__name__)
 
@@ -26,12 +26,12 @@ app.pipeline = [
 def there_is_always_one_truth():
     return "真実はいつもひとつ！"
 
-@app.route('/character/<int:character_id>')
+@app.route('/character/<int:character_id>', methods="get")
 @service.json
 def character(character_id):
     return db(Character.id == character_id).select().first()
    
-@app.route('/character/<str:name>')
+@app.route('/character/<str:name>', methods="get")
 @service.json
 def search_character_together(name):
     char = db((Character.romanized_name == name) 

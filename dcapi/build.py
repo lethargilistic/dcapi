@@ -3,7 +3,7 @@ import logging
 log = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 
-from models import Character
+from .models import Character
 
 def build_characters(db):
     log.log(logging.INFO, "build_characters")

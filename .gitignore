@@ -1,4 +1,4 @@
-logs/*
-keys.py
-__pycache__/*
-databases/*
+dcapi/logs/*
+dcapi/keys.py
+dcapi/__pycache__/*
+dcapi/databases/*
