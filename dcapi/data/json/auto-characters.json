@@ -124,7 +124,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Amylin (\u30a2\u30df\u30ea\u30fc\u30f3 Amir\u012bn?)",
         "date_of_birth": "",
         "drama_actor": "",
@@ -134,7 +134,7 @@
         },
         "gender": "Male",
         "image": "Arrack Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Arrack",
@@ -165,7 +165,7 @@
         },
         "gender": "Male",
         "image": "Fumimaro Ayanokoji Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Fumimaro Ayanokoji",
@@ -186,7 +186,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -217,7 +217,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -227,7 +227,7 @@
         },
         "gender": "Male",
         "image": "Blackbeard profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Blackbeard",
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -258,7 +258,7 @@
         },
         "gender": "Unknown",
         "image": "The Boss of the Black Organization Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "That Person",
@@ -279,7 +279,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -289,7 +289,7 @@
         },
         "gender": "Male",
         "image": "Calvados Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Calvados",
@@ -341,7 +341,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -403,7 +403,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -465,7 +465,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -496,7 +496,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -506,7 +506,7 @@
         },
         "gender": "Male",
         "image": "Detective Takigawa.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Ida",
@@ -527,7 +527,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -537,7 +537,7 @@
         },
         "gender": "Male",
         "image": "",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Nakamura",
@@ -558,7 +558,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -568,7 +568,7 @@
         },
         "gender": "Male",
         "image": "",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Takigawa",
@@ -589,7 +589,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "May 4th<ref name=\"CD38\" />",
         "drama_actor": "Nao Fujisaki<br />Minami Takayama (voice)",
@@ -599,7 +599,7 @@
         },
         "gender": "Male",
         "image": "Conan Edogawa Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Conan Edogawa",
@@ -651,7 +651,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -661,7 +661,7 @@
         },
         "gender": "Male",
         "image": "Manabu Fujimaki Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Manabu Fujimaki",
@@ -682,7 +682,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -692,7 +692,7 @@
         },
         "gender": "Male",
         "image": "Detective Fukui.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Fukui",
@@ -754,7 +754,7 @@
         },
         "gender": "Male",
         "image": "Generic Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Generic",
@@ -775,7 +775,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "Kuranosuke Sasaki",
@@ -785,7 +785,7 @@
         },
         "gender": "Male",
         "image": "Gin Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Melkior",
@@ -837,7 +837,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -847,7 +847,7 @@
         },
         "gender": "Unknown",
         "image": "Gomera Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Gomera",
@@ -930,7 +930,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -991,7 +991,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -1001,7 +1001,7 @@
         },
         "gender": "Male",
         "image": "Yoshiaki Hara Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Zachary Hara",
@@ -1053,7 +1053,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1146,7 +1146,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1156,7 +1156,7 @@
         },
         "gender": "Male",
         "image": "",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Hirota",
@@ -1208,7 +1208,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1270,7 +1270,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1280,7 +1280,7 @@
         },
         "gender": "Male",
         "image": "Detective Horita Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Horita",
@@ -1301,7 +1301,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1311,7 +1311,7 @@
         },
         "gender": "Male",
         "image": "Irish Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Irish",
@@ -1332,7 +1332,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "Go Ayano (2014)",
@@ -1362,7 +1362,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1392,7 +1392,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "Sakina Ayakaze",
@@ -1432,7 +1432,7 @@
         },
         "gender": "Male",
         "image": "Konosuke Jii Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Konosuke Jii",
@@ -1453,7 +1453,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Kaitou Kid <br> Phantom Thief Kid 1412<br>Kaitou 1412",
         "date_of_birth": "June 21",
         "drama_actor": "",
@@ -1483,7 +1483,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Kaitou 1412<br />Phantom Thief Kid 1412",
         "date_of_birth": "June 21 (Kaito Kuroba)<br />Unknown (Toichi Kuroba)<br/>Unknown (Konosuke Jii)",
         "drama_actor": "",
@@ -1514,7 +1514,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -1524,7 +1524,7 @@
         },
         "gender": "Unknown",
         "image": "Kamen Yaiba Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Masked Yaiba",
@@ -1545,7 +1545,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1555,7 +1555,7 @@
         },
         "gender": "Male",
         "image": "Detective Kawanaka.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Kawanaka",
@@ -1576,7 +1576,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Eri Mouri (real name)",
         "date_of_birth": "October 10",
         "drama_actor": "Nene Otsuka",
@@ -1648,7 +1648,7 @@
         },
         "gender": "Female",
         "image": "Kaoru Koda Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Kaoru Koda",
@@ -1679,7 +1679,7 @@
         },
         "gender": "Female",
         "image": "Akako Koizumi Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Akako Koizumi",
@@ -1762,7 +1762,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1772,7 +1772,7 @@
         },
         "gender": "Male",
         "image": "Korn Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Korn",
@@ -1793,7 +1793,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1824,7 +1824,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "May 4th<ref name=CD41/>",
         "drama_actor": "Shun Oguri (1st)<br>Junpei Mizobata (2nd)",
@@ -1855,7 +1855,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Yukiko Fujimine (maiden name)<br>Fumiyo Edogawa (Fanny Edogawa in the Funimation Dub)<br>Fumiyo Akechi",
         "date_of_birth": "Unknown<ref name=CD58/>",
         "drama_actor": "",
@@ -1886,7 +1886,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1927,7 +1927,7 @@
         },
         "gender": "Female",
         "image": "Reiko Kujo Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Reiko Kujo",
@@ -1948,7 +1948,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Phantom Lady",
         "date_of_birth": "",
         "drama_actor": "",
@@ -1958,7 +1958,7 @@
         },
         "gender": "Female",
         "image": "Chikage Kuroba Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Chikage Kuroba",
@@ -1979,7 +1979,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Kaitou Kid <br> Phantom Thief Kid 1412<br>Kaitou 1412",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2041,7 +2041,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2051,7 +2051,7 @@
         },
         "gender": "Male",
         "image": "Rikumichi Kusuda Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Rikumichi Kusuda",
@@ -2103,7 +2103,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "Seina Sagiri",
@@ -2133,7 +2133,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -2143,7 +2143,7 @@
         },
         "gender": "Unknown",
         "image": "Magic Kaito Boss Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Magic Kaito Boss",
@@ -2164,7 +2164,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2174,7 +2174,7 @@
         },
         "gender": "Male",
         "image": "Magic Kaito Sub-boss Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Magic Kaito Sub-boss",
@@ -2195,7 +2195,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2257,7 +2257,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "Masahiko Nishimura (1st)<br>Masato Ibu (2nd)",
@@ -2350,7 +2350,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2360,7 +2360,7 @@
         },
         "gender": "Female",
         "image": "Sayaka Mine.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Sayaka Mine",
@@ -2381,7 +2381,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "Seshiru Daigo",
@@ -2411,7 +2411,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2442,7 +2442,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Masami Hirota (Michelle in Case Closed episode 14)",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2473,7 +2473,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2483,7 +2483,7 @@
         },
         "gender": "Male",
         "image": "Atsushi Miyano Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Atsushi Miyano",
@@ -2504,7 +2504,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2514,7 +2514,7 @@
         },
         "gender": "Female",
         "image": "Elena_Miyano_Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Elena Miyano",
@@ -2535,7 +2535,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Ai Haibara (alias)<br />Sherry",
         "date_of_birth": "Unknown<ref name=CD49/>",
         "drama_actor": "Yu Kashii (Sherry)",
@@ -2575,7 +2575,7 @@
         },
         "gender": "Female",
         "image": "Keiko Momoi Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Keiko Momoi",
@@ -2627,7 +2627,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "Tomoka Kurokawa (1st)<br>Shiori Kutsuna (2nd)",
@@ -2668,7 +2668,7 @@
         },
         "gender": "Female",
         "image": "Aoko Nakomori Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Aoko Nakamori",
@@ -2720,7 +2720,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -2730,7 +2730,7 @@
         },
         "gender": "Unknown",
         "image": "Night Baron Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Knight Baron",
@@ -2751,7 +2751,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -2761,7 +2761,7 @@
         },
         "gender": "Male",
         "image": "Masaaki Okakura.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Masaaki Okakura",
@@ -2844,7 +2844,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2854,7 +2854,7 @@
         },
         "gender": "Male",
         "image": "Detective Okumura.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Okumura",
@@ -2875,7 +2875,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2906,7 +2906,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Kenzo Masuyama (real name)",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2916,7 +2916,7 @@
         },
         "gender": "Male",
         "image": "Pisco Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Pisco",
@@ -2937,7 +2937,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -2947,7 +2947,7 @@
         },
         "gender": "Female",
         "image": "Rose_Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Rose",
@@ -2968,7 +2968,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -2998,7 +2998,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3008,7 +3008,7 @@
         },
         "gender": "Male",
         "image": "Detective Saitoh Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Saitoh",
@@ -3029,7 +3029,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "? (~Bakumatsu Era)",
         "drama_actor": "",
@@ -3070,7 +3070,7 @@
         },
         "gender": "Male",
         "image": "Takahiro Sanada Profile.png",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Takahiro Sanada",
@@ -3091,7 +3091,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "April (unknown date)",
         "drama_actor": "Natsuhi Ueno",
@@ -3122,7 +3122,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3184,7 +3184,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3215,7 +3215,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Jackal",
         "date_of_birth": "Unknown",
         "drama_actor": "",
@@ -3225,7 +3225,7 @@
         },
         "gender": "Male",
         "image": "Snake_Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Snake",
@@ -3246,7 +3246,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3256,7 +3256,7 @@
         },
         "gender": "Male",
         "image": "Detective Sogawa Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Sogawa",
@@ -3308,7 +3308,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3318,7 +3318,7 @@
         },
         "gender": "Male",
         "image": "",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Sugita",
@@ -3401,7 +3401,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "Yuichi Tsuchiya",
@@ -3432,7 +3432,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3442,7 +3442,7 @@
         },
         "gender": "Male",
         "image": "Detective Takano.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Takano",
@@ -3463,7 +3463,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3473,7 +3473,7 @@
         },
         "gender": "Male",
         "image": "Tequila Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Tequila",
@@ -3494,7 +3494,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3504,7 +3504,7 @@
         },
         "gender": "Male",
         "image": "Junya Tokitsu Profile.jpg",
-        "keyhole": 0,
+        "keyhole": null,
         "name": {
             "english": {
                 "anime": "Junya Tokitsu",
@@ -3525,7 +3525,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3649,7 +3649,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "Chris Vineyard <br /> Sharon Vineyard",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3679,7 +3679,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "Taro Okada",
@@ -3710,7 +3710,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3772,7 +3772,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3802,7 +3802,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3833,7 +3833,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3926,7 +3926,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "",
         "drama_actor": "",
@@ -3957,7 +3957,7 @@
         ]
     },
     {
-        "age": 0,
+        "age": null,
         "aliases": "",
         "date_of_birth": "December 25, 1937 (or 1938)",
         "drama_actor": "Seika Yumeno",

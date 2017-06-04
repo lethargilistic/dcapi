@@ -89,9 +89,9 @@ def prepare_json(infoboxes_list):
                                   'english':{'anime':english_name,
                                              'manga':english_name}}
             try:
-                fixed_dict['age'] = int(original_dict.get('age')) if original_dict.get('age', '') else 0
+                fixed_dict['age'] = int(original_dict.get('age')) if original_dict.get('age', '') else None
             except ValueError:
-                fixed_dict['age'] = 0
+                fixed_dict['age'] = None
             fixed_dict['gender'] = original_dict.get('gender', 'Unknown')
             fixed_dict['date_of_birth'] = original_dict.get('date-of-birth', 'Unknown')
             fixed_dict['occupation'] = original_dict.get('occupation', '')
@@ -105,8 +105,11 @@ def prepare_json(infoboxes_list):
             #7 cuts off the 'Volume ' in keyhole data
             try:
                 fixed_dict['keyhole'] = int(original_dict.get('keyhole', 'Volume 0')[7:])
+                if fixed_dict['keyhole'] == 0:
+                    fixed_dict['keyhole'] = None
+
             except ValueError:
-                fixed_dict['age'] = 0
+                fixed_dict['age'] = None
             fixed_dict['voice'] = {'japanese':original_dict.get('japanese-voice', ''),
                                    'english':original_dict.get('english-voice', '')},
             fixed_dict['drama_actor'] = original_dict.get('drama-actor', '')
@@ -115,8 +118,13 @@ def prepare_json(infoboxes_list):
             import sys
             print(original_dict['name'], sys.exc_info())
             sys.exit(1)
-    return fixed_list
-        
+
+    for i, character in enumerate(fixed_list):
+        for field in character:
+            if not character[field]:
+                fixed_list[i][field] = None
+        return fixed_list
+            
     '''
      {'name': 'Hiroshi Agasa'},
      {'japanese-name': '阿笠 博士<br>(Agasa Hiroshi)'},
