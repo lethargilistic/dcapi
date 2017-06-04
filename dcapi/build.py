@@ -8,7 +8,7 @@ from .models import Character
 
 def build_characters(db):
     log.log(logging.INFO, "build_characters")
-    with open(os.path.join(os.path.dirname(__file__), 'data/json/auto-characters.json'), 'r') as datafile:
+    with open(os.path.join(os.path.dirname(__file__), 'data/json/characters.json'), 'r') as datafile:
         characters_dict = json.loads(datafile.read())
 
     Character.all().delete()
