@@ -111,7 +111,7 @@ def prepare_json(infoboxes_list):
                     fixed_dict['keyhole'] = None
 
             except ValueError:
-                fixed_dict['age'] = None
+                fixed_dict['keyhole'] = None
             fixed_dict['voice'] = {'japanese':original_dict.get('japanese-voice', None),
                                    'english':original_dict.get('english-voice', None)},
             fixed_dict['drama_actor'] = original_dict.get('drama-actor', None)
@@ -123,7 +123,7 @@ def prepare_json(infoboxes_list):
 
     for i, character in enumerate(fixed_list):
         for field in character:
-            if not character[field]:
+            if isinstance(field, str) and not character[field]:
                 fixed_list[i][field] = None
     return fixed_list
  
