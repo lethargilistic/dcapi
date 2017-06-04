@@ -21,7 +21,6 @@
                 "romanized": "Hiroshi Agasa"
             }
         },
-        "nicknames": "Professor (Ai Haibara) <br> Professor Agasa (Conan Edogawa, Detective Boys)",
         "occupation": "Engineer <br /> Inventor",
         "voice": [
             {
@@ -32,9 +31,9 @@
     },
     {
         "age": 19,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 10",
             "manga": "Manga: Episode 10"
@@ -52,7 +51,6 @@
                 "romanized": "Hideo Akagi"
             }
         },
-        "nicknames": "Hide",
         "occupation": "Soccer Player",
         "voice": [
             {
@@ -64,8 +62,8 @@
     {
         "age": 31,
         "aliases": "Rye<br>Dai Moroboshi<br>Subaru Okiya",
-        "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 230",
             "manga": "Manga: Episode 230"
@@ -83,7 +81,6 @@
                 "romanized": "Shuichi Akai"
             }
         },
-        "nicknames": "Shu (Shukichi)",
         "occupation": "FBI Agent",
         "voice": [
             {
@@ -94,9 +91,9 @@
     },
     {
         "age": 25,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 170",
             "manga": "Manga: Episode 170"
@@ -114,11 +111,10 @@
                 "romanized": "Tomoaki Araide"
             }
         },
-        "nicknames": "",
         "occupation": "Teitan High School basketball coach <br /> Doctor",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Hideyuki Hori"
             }
         ]
@@ -126,8 +122,8 @@
     {
         "age": null,
         "aliases": "Amylin (\u30a2\u30df\u30ea\u30fc\u30f3 Amir\u012bn?)",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Conan Special: Volume 26",
             "manga": "Conan Special: Volume 26"
@@ -145,20 +141,19 @@
                 "romanized": "Arrack"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": ""
             }
         ]
     },
     {
         "age": 28,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Crossroad in the Ancient Capital",
             "manga": "Crossroad in the Ancient Capital"
@@ -176,7 +171,6 @@
                 "romanized": "Fumimaro Ayanokoji"
             }
         },
-        "nicknames": "{{nihongo|Inspector Ojaru|\u304a\u3058\u3083\u308b\u8b66\u90e8|Ojaru-keibu}}",
         "occupation": "Policeman",
         "voice": [
             {
@@ -187,9 +181,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 258",
             "manga": "Manga: Episode 258"
@@ -207,7 +201,6 @@
                 "romanized": "James Black"
             }
         },
-        "nicknames": "",
         "occupation": "FBI Agent",
         "voice": [
             {
@@ -218,9 +211,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Conan Special: Volume 35",
             "manga": "Conan Special: Volume 35"
@@ -238,20 +231,19 @@
                 "romanized": "Blackbeard"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": ""
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Reunion with the Black Organization (mentioned to exist)",
             "manga": "Reunion with the Black Organization (mentioned to exist)"
@@ -269,7 +261,6 @@
                 "romanized": "Ano kata"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization Boss",
         "voice": [
             {
@@ -280,9 +271,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: File 433<br> Anime: Episode 345",
             "manga": "Manga: File 433<br> Anime: Episode 345"
@@ -300,20 +291,19 @@
                 "romanized": "Calvados"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": ""
             }
         ]
     },
     {
         "age": 27,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 497",
             "manga": "Manga: Episode 497"
@@ -331,7 +321,6 @@
                 "romanized": "Andre Camel"
             }
         },
-        "nicknames": "",
         "occupation": "FBI Agent",
         "voice": [
             {
@@ -342,9 +331,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: File 410 <br />Anime: Episode 421",
             "manga": "Manga: File 410 <br />Anime: Episode 421"
@@ -362,8 +351,7 @@
                 "romanized": "Fusae Campbell"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -373,9 +361,9 @@
     },
     {
         "age": 49,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 76",
             "manga": "Manga: Episode 76"
@@ -393,7 +381,6 @@
                 "romanized": "Shintaro Chaki"
             }
         },
-        "nicknames": "",
         "occupation": "Police Superintendent",
         "voice": [
             {
@@ -404,9 +391,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 425",
             "manga": "Manga: Episode 425"
@@ -424,7 +411,6 @@
                 "romanized": "Chianti"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -435,9 +421,9 @@
     },
     {
         "age": 24,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 138",
             "manga": "Manga: Episode 138"
@@ -455,7 +441,6 @@
                 "romanized": "Kazunobu Chiba"
             }
         },
-        "nicknames": "",
         "occupation": "Police Detective",
         "voice": [
             {
@@ -466,9 +451,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: File 804<br />Anime: Episode 681",
             "manga": "Manga: File 804<br />Anime: Episode 681"
@@ -486,7 +471,6 @@
                 "romanized": "Wataru Date"
             }
         },
-        "nicknames": "",
         "occupation": "Police Detective",
         "voice": [
             {
@@ -497,9 +481,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: 177",
             "manga": "Manga: 177"
@@ -517,7 +501,6 @@
                 "romanized": "Ida"
             }
         },
-        "nicknames": "",
         "occupation": "Policeman",
         "voice": [
             {
@@ -528,15 +511,15 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
         },
         "gender": "Male",
-        "image": "",
+        "image": null,
         "keyhole": null,
         "name": {
             "english": {
@@ -548,7 +531,6 @@
                 "romanized": "Nakamura"
             }
         },
-        "nicknames": "",
         "occupation": "Policeman",
         "voice": [
             {
@@ -559,15 +541,15 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
         },
         "gender": "Male",
-        "image": "",
+        "image": null,
         "keyhole": null,
         "name": {
             "english": {
@@ -579,7 +561,6 @@
                 "romanized": "Takigawa"
             }
         },
-        "nicknames": "",
         "occupation": "Policeman",
         "voice": [
             {
@@ -590,8 +571,8 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "May 4th<ref name=\"CD38\" />",
+        "aliases": null,
+        "date_of_birth": "May 4th",
         "drama_actor": "Nao Fujisaki<br />Minami Takayama (voice)",
         "first_appearance": {
             "anime": "Manga: Episode 10",
@@ -610,7 +591,6 @@
                 "romanized": "Conan Edogawa"
             }
         },
-        "nicknames": "Conan-Kun (Heiji) <br/> Kudo-Kun (Ai Haibara) <br/> Kuroshiro-kun (Kaito Sugiura) <br/> The Wizard (Masumi Sera) <br/> KID Killer <br/> Sleeping Kogoro's Bag of Wisdom (Hyoue Kuroda)",
         "occupation": "Teitan Elementary School student <br /> Detective",
         "voice": [
             {
@@ -621,9 +601,9 @@
     },
     {
         "age": 23,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 152",
             "manga": "Manga: Episode 152"
@@ -641,20 +621,19 @@
                 "romanized": "Azusa Enomoto"
             }
         },
-        "nicknames": "",
         "occupation": "Caf\u00e9 Poirot worker",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Mikiko Enomoto"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
@@ -672,7 +651,6 @@
                 "romanized": "Manabu Fujimaki"
             }
         },
-        "nicknames": "",
         "occupation": "Police Inspector",
         "voice": [
             {
@@ -683,9 +661,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
@@ -703,7 +681,6 @@
                 "romanized": "Fukui"
             }
         },
-        "nicknames": "",
         "occupation": "Policeman",
         "voice": [
             {
@@ -715,8 +692,8 @@
     {
         "age": 29,
         "aliases": "Bourbon<br />Tooru Amuro",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 667",
             "manga": "Manga: Episode 667"
@@ -734,11 +711,10 @@
                 "romanized": "Rei Furuya"
             }
         },
-        "nicknames": "Zero (Conan)",
         "occupation": "Detective <br /> Caf\u00e9 Poirot worker <br />  National Police Agency Security Bureau Security Planning Division Agent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Tohru Furuya"
             }
         ]
@@ -746,8 +722,8 @@
     {
         "age": 17,
         "aliases": "Honda",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Conan Special: Volume 26",
             "manga": "Conan Special: Volume 26"
@@ -765,19 +741,18 @@
                 "romanized": "Generic"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": ""
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Kuranosuke Sasaki",
         "first_appearance": {
             "anime": "Manga: Episode 1",
@@ -796,7 +771,6 @@
                 "romanized": "Gin"
             }
         },
-        "nicknames": "Aniki (Vodka) <br> Koibito-san (Shuichi Akai)",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -807,9 +781,9 @@
     },
     {
         "age": 22,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 616",
             "manga": "Manga: Episode 616"
@@ -827,20 +801,19 @@
                 "romanized": "Minerva Glass"
             }
         },
-        "nicknames": "Queen of the Court <br/> Queen of the Grass Court",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": ""
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: <br />Anime:",
             "manga": "Manga: <br />Anime:"
@@ -858,8 +831,7 @@
                 "romanized": "Gomera"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -870,7 +842,7 @@
     {
         "age": 18,
         "aliases": "Shiho Miyano (real name)<br />Sherry",
-        "date_of_birth": "Unknown<ref name=CD49/>",
+        "date_of_birth": "Unknown",
         "drama_actor": "Kyoka Shibata (Ai Haibara)<br>Yu Kashii (Shiho Miyano)",
         "first_appearance": {
             "anime": "Manga: Episode 21",
@@ -889,7 +861,6 @@
                 "romanized": "Ai Haibara"
             }
         },
-        "nicknames": "Haibara (by Conan) <br /> Princess (by Subaru Okiya)",
         "occupation": "Teitan Elementary School student <br /> Detective Boys member",
         "voice": [
             {
@@ -900,9 +871,9 @@
     },
     {
         "age": 17,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "August 29th",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Magic Kaito Chapter 15<br>Manga: File 299<br />Anime: Episode 219",
             "manga": "Magic Kaito Chapter 15<br>Manga: File 299<br />Anime: Episode 219"
@@ -920,7 +891,6 @@
                 "romanized": "Saguru Hakuba"
             }
         },
-        "nicknames": "",
         "occupation": "Ekoda High School Student <br /> Detective",
         "voice": [
             {
@@ -931,9 +901,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: File 948 (first full-face appearance)",
             "manga": "Manga: File 948 (first full-face appearance)"
@@ -950,7 +920,6 @@
                 "romanized": "Kohji Haneda"
             }
         },
-        "nicknames": "",
         "occupation": "Shogi player",
         "voice": [
             {
@@ -963,7 +932,7 @@
         "age": 28,
         "aliases": "Taiko Meijin (Celebrity name)<br />Shukichi Sera<br />Shukichi Akai (Birth name)",
         "date_of_birth": "Seems November 12",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 731",
             "manga": "Manga: Episode 731"
@@ -981,7 +950,6 @@
                 "romanized": "Shukichi Haneda"
             }
         },
-        "nicknames": "{{nihongo|Chukichi|\u30c1\u30e5\u30a6\ud842\udfb7/<ruby>\u79c0\ud842\udfb7<rp>[</rp><rt>\u30c1\u30e5\u30a6\u30ad\u30c1</rt><rp>]</rp></ruby>|4=Yumi Miyamoto}}<br />Kichi-nii (Masumi Sera)<br/>Aniki (Masumi Sera)",
         "occupation": "Shogi player",
         "voice": [
             {
@@ -992,9 +960,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Anime: Movie 5",
             "manga": "Anime: Movie 5"
@@ -1012,7 +980,6 @@
                 "romanized": "Yoshiaki Hara"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -1023,8 +990,8 @@
     },
     {
         "age": 17,
-        "aliases": "",
-        "date_of_birth": "Unknown date",
+        "aliases": null,
+        "date_of_birth": "Unknown date in July or August",
         "drama_actor": "Tori Matsuzaka",
         "first_appearance": {
             "anime": "Manga: Episode 48",
@@ -1043,7 +1010,6 @@
                 "romanized": "Heiji Hattori"
             }
         },
-        "nicknames": "Hei-chan (Otaki)<br>\"The Great Detective of the West\"<br>Detective Freak (Kazuha)<br>Dark skinned man (Conan)<br>Osaka boy (Kogoro)<br>Detective boy",
         "occupation": "High School Student <br /> Detective",
         "voice": [
             {
@@ -1054,9 +1020,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 48",
             "manga": "Manga: Episode 48"
@@ -1074,7 +1040,6 @@
                 "romanized": "Heizo Hattori"
             }
         },
-        "nicknames": "",
         "occupation": "Osaka Prefectural Police Superintendent",
         "voice": [
             {
@@ -1086,8 +1051,8 @@
     {
         "age": 42,
         "aliases": "Shizuka Ikenami (maiden name)",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 220",
             "manga": "Manga: Episode 220"
@@ -1105,8 +1070,7 @@
                 "romanized": "Shizuka Hattori"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -1116,9 +1080,9 @@
     },
     {
         "age": 19,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Episode 279 (anime)",
             "manga": "Episode 279 (anime)"
@@ -1136,7 +1100,6 @@
                 "romanized": "Ryusuke Higo"
             }
         },
-        "nicknames": "",
         "occupation": "Soccer Player",
         "voice": [
             {
@@ -1147,15 +1110,15 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Episode 413",
             "manga": "Episode 413"
         },
         "gender": "Male",
-        "image": "",
+        "image": null,
         "keyhole": null,
         "name": {
             "english": {
@@ -1167,7 +1130,6 @@
                 "romanized": "Hirota"
             }
         },
-        "nicknames": "",
         "occupation": "Policeman",
         "voice": [
             {
@@ -1178,9 +1140,9 @@
     },
     {
         "age": 17,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 429",
             "manga": "Manga: Episode 429"
@@ -1198,20 +1160,19 @@
                 "romanized": "Eisuke Hondou"
             }
         },
-        "nicknames": "",
         "occupation": "Teitan High School Student",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Junko Noda"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 485",
             "manga": "Manga: Episode 485"
@@ -1229,11 +1190,10 @@
                 "romanized": "Ethan Hondou"
             }
         },
-        "nicknames": "",
         "occupation": "CIA Agent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Rikiya Koyama"
             }
         ]
@@ -1241,8 +1201,8 @@
     {
         "age": 27,
         "aliases": "Kir<br>Rena Mizunashi",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 425",
             "manga": "Manga: Episode 425"
@@ -1260,20 +1220,19 @@
                 "romanized": "Hidemi Hondou"
             }
         },
-        "nicknames": "",
         "occupation": "CIA Agent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Kotono Mitsuishi"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
@@ -1291,7 +1250,6 @@
                 "romanized": "Horita"
             }
         },
-        "nicknames": "",
         "occupation": "Police detective",
         "voice": [
             {
@@ -1302,9 +1260,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Anime: Movie 13",
             "manga": "Anime: Movie 13"
@@ -1322,19 +1280,18 @@
                 "romanized": "Irish"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Yuji Mikimoto"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Go Ayano (2014)",
         "first_appearance": {
             "anime": "''Lupin III vs. Detective Conan''",
@@ -1352,7 +1309,6 @@
                 "romanized": "Goemon Ishikawa"
             }
         },
-        "nicknames": "",
         "occupation": "Swordmaster<br />Thief",
         "voice": [
             {
@@ -1363,9 +1319,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 307",
             "manga": "Manga: Episode 307"
@@ -1382,19 +1338,18 @@
                 "romanized": "Suguru Itakura"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ryuzaburo Ohtomo"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Sakina Ayakaze",
         "first_appearance": {
             "anime": "Lupin III vs. Detective Conan",
@@ -1412,8 +1367,7 @@
                 "romanized": "Daisuke Jigen"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "Dan Woren",
@@ -1423,9 +1377,9 @@
     },
     {
         "age": 61,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Episode 1",
             "manga": "Episode 1"
@@ -1443,11 +1397,10 @@
                 "romanized": "Konosuke Jii"
             }
         },
-        "nicknames": "",
         "occupation": "[http://www.vggallery.com/painting/p_0459.htm Koyata Yamamoto]'s former servant <br /> Kuroba Family's actual assistant",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Kaneta Kimotsuki (Episode 219)<br>? (episode 356)<br>Koji Yada (Magic Kaito Special)<br />Michio Hazama (Magic Kaito 1412)<br />Akio Suyama (Youth)"
             }
         ]
@@ -1456,7 +1409,7 @@
         "age": null,
         "aliases": "Kaitou Kid <br> Phantom Thief Kid 1412<br>Kaitou 1412",
         "date_of_birth": "June 21",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Episode 76",
             "manga": "Episode 76"
@@ -1473,7 +1426,6 @@
                 "romanized": "Kaito Kuroba"
             }
         },
-        "nicknames": "Kaito <br> Bakaito",
         "occupation": "Ekoda High School Student <br> Magician <br> secretly a Phantom Thief",
         "voice": [
             {
@@ -1486,7 +1438,7 @@
         "age": null,
         "aliases": "Kaitou 1412<br />Phantom Thief Kid 1412",
         "date_of_birth": "June 21 (Kaito Kuroba)<br />Unknown (Toichi Kuroba)<br/>Unknown (Konosuke Jii)",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Episode 76",
             "manga": "Episode 76"
@@ -1504,7 +1456,6 @@
                 "romanized": "Kaitou Kid"
             }
         },
-        "nicknames": "The Magician Under the Moonlight<br />The Heisei Lupin<br />The Last Wizard of the Century",
         "occupation": "Thief",
         "voice": [
             {
@@ -1515,9 +1466,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 005",
             "manga": "Manga: Episode 005"
@@ -1535,8 +1486,7 @@
                 "romanized": "Kamen Yaiba"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -1546,9 +1496,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
@@ -1566,7 +1516,6 @@
                 "romanized": "Kawanaka"
             }
         },
-        "nicknames": "",
         "occupation": "Police detective",
         "voice": [
             {
@@ -1597,7 +1546,6 @@
                 "romanized": "Eri Kisaki"
             }
         },
-        "nicknames": "Queen of the Courtroom (by her professional acquaintances)",
         "occupation": "Lawyer",
         "voice": [
             {
@@ -1608,9 +1556,9 @@
     },
     {
         "age": 26,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 112",
             "manga": "Manga: Episode 112"
@@ -1628,7 +1576,6 @@
                 "romanized": "Sumiko Kobayashi"
             }
         },
-        "nicknames": "Kobayashi-sensei<br>(formerly) Oni-baba (\"old demon hag\") <br />That Ranpo-maniac",
         "occupation": "Teitan Elementary School teacher",
         "voice": [
             {
@@ -1639,9 +1586,9 @@
     },
     {
         "age": 27,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Movie 16: The Eleventh Striker",
             "manga": "Movie 16: The Eleventh Striker"
@@ -1659,7 +1606,6 @@
                 "romanized": "Kaoru Koda"
             }
         },
-        "nicknames": "",
         "occupation": "Camerawoman",
         "voice": [
             {
@@ -1670,9 +1616,9 @@
     },
     {
         "age": 17,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Magic Kaito Chapter 6<br />Anime: OVA 1",
             "manga": "Magic Kaito Chapter 6<br />Anime: OVA 1"
@@ -1690,20 +1636,19 @@
                 "romanized": "Akako Koizumi"
             }
         },
-        "nicknames": "",
         "occupation": "Ekoda High School Student <br /> Witch",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Eri Kitamura (Magic Kaito 1412)"
             }
         ]
     },
     {
         "age": 32,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Chapter 658<br />Anime: Episode 551",
             "manga": "Manga: Chapter 658<br />Anime: Episode 551"
@@ -1721,20 +1666,19 @@
                 "romanized": "Genji Kojima"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Akio Nojima"
             }
         ]
     },
     {
         "age": 6,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 1",
             "manga": "Manga: Episode 1"
@@ -1752,7 +1696,6 @@
                 "romanized": "Genta Kojima"
             }
         },
-        "nicknames": "",
         "occupation": "Teitan Elementary School student <br /> Detective Boys member",
         "voice": [
             {
@@ -1763,9 +1706,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 425",
             "manga": "Manga: Episode 425"
@@ -1783,7 +1726,6 @@
                 "romanized": "Korn"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -1794,9 +1736,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 479",
             "manga": "Manga: Episode 479"
@@ -1814,8 +1756,7 @@
                 "romanized": "Natsuki Koshimizu"
             }
         },
-        "nicknames": "Detective of the South",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -1825,8 +1766,8 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "May 4th<ref name=CD41/>",
+        "aliases": null,
+        "date_of_birth": "May 4th",
         "drama_actor": "Shun Oguri (1st)<br>Junpei Mizobata (2nd)",
         "first_appearance": {
             "anime": "Manga: Episode 1",
@@ -1845,7 +1786,6 @@
                 "romanized": "Shinichi Kudo"
             }
         },
-        "nicknames": "Detective Geek<br />Detective of the East<br />The savior of the police force<br /> Shin-chan (his mother)<br />Silver Bullet (Vermouth)<br />The Heisei Holmes <br />Cool guy (Vermouth)<br />The Wizard (Masumi Sera)",
         "occupation": "Teitan High School student <br /> Detective",
         "voice": [
             {
@@ -1857,8 +1797,8 @@
     {
         "age": null,
         "aliases": "Yukiko Fujimine (maiden name)<br>Fumiyo Edogawa (Fanny Edogawa in the Funimation Dub)<br>Fumiyo Akechi",
-        "date_of_birth": "Unknown<ref name=CD58/>",
-        "drama_actor": "",
+        "date_of_birth": "Unknown",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 43",
             "manga": "Manga: Episode 43"
@@ -1876,7 +1816,6 @@
                 "romanized": "Yukiko Kudo"
             }
         },
-        "nicknames": "The Night Baroness",
         "occupation": "Retired actress",
         "voice": [
             {
@@ -1887,9 +1826,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 43",
             "manga": "Manga: Episode 43"
@@ -1907,7 +1846,6 @@
                 "romanized": "Yusaku Kudo"
             }
         },
-        "nicknames": "",
         "occupation": "Novelist",
         "voice": [
             {
@@ -1918,9 +1856,9 @@
     },
     {
         "age": 33,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Anime: Episode 264",
             "manga": "Anime: Episode 264"
@@ -1938,7 +1876,6 @@
                 "romanized": "Reiko Kujo"
             }
         },
-        "nicknames": "Madonna of Prosecutors",
         "occupation": "Prosecutor",
         "voice": [
             {
@@ -1950,8 +1887,8 @@
     {
         "age": null,
         "aliases": "Phantom Lady",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Anime: Episode 627<br />Magic Kaito Chapter 1<br />Magic Kaito: Kid the Phantom Thief",
             "manga": "Anime: Episode 627<br />Magic Kaito Chapter 1<br />Magic Kaito: Kid the Phantom Thief"
@@ -1969,11 +1906,10 @@
                 "romanized": "Chikage Kuroba"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Michie Tomizawa"
             }
         ]
@@ -1981,8 +1917,8 @@
     {
         "age": null,
         "aliases": "Kaitou Kid <br> Phantom Thief Kid 1412<br>Kaitou 1412",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Magic Kaito Chapter 1<br> Anime: Episode 219",
             "manga": "Magic Kaito Chapter 1<br> Anime: Episode 219"
@@ -2000,7 +1936,6 @@
                 "romanized": "Toichi Kuroba"
             }
         },
-        "nicknames": "",
         "occupation": "Magician",
         "voice": [
             {
@@ -2011,9 +1946,9 @@
     },
     {
         "age": 50,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 810",
             "manga": "Manga: Episode 810"
@@ -2031,7 +1966,6 @@
                 "romanized": "Hyoue Kuroda"
             }
         },
-        "nicknames": "",
         "occupation": "Police Superintendent",
         "voice": [
             {
@@ -2042,9 +1976,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: File 595 <br> Anime: Episode 496",
             "manga": "Manga: File 595 <br> Anime: Episode 496"
@@ -2062,20 +1996,19 @@
                 "romanized": "Rikumichi Kusuda"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Mitsuo Iwata"
             }
         ]
     },
     {
         "age": 18,
-        "aliases": "",
-        "date_of_birth": "Unknown<ref name=CD55/>",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": "Unknown",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 153",
             "manga": "Manga: Episode 153"
@@ -2093,7 +2026,6 @@
                 "romanized": "Makoto Kyogoku"
             }
         },
-        "nicknames": "\"The Prince of Kicks\"",
         "occupation": "Student<br />Karate Club Captain<br />Karate Champion",
         "voice": [
             {
@@ -2104,8 +2036,8 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Seina Sagiri",
         "first_appearance": {
             "anime": "TV Special 3",
@@ -2123,7 +2055,6 @@
                 "romanized": "Ars\u00e8ne Lupin III"
             }
         },
-        "nicknames": "Lupin",
         "occupation": "Phantom thief",
         "voice": [
             {
@@ -2134,9 +2065,9 @@
     },
     {
         "age": null,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Special 5 (shadow)",
             "manga": "Special 5 (shadow)"
@@ -2154,8 +2085,7 @@
                 "romanized": "Magic Kaito Boss"
             }
         },
-        "nicknames": "Ano okata/that person",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -2165,9 +2095,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "MK Special: Episode 2",
             "manga": "MK Special: Episode 2"
@@ -2185,8 +2115,7 @@
                 "romanized": "Magic Kaito Sub-boss"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -2196,9 +2125,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Chapter 366<br />Anime: Episode 301",
             "manga": "Manga: Chapter 366<br />Anime: Episode 301"
@@ -2216,8 +2145,7 @@
                 "romanized": "Jinpei Matsuda"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -2227,9 +2155,9 @@
     },
     {
         "age": 54,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 18",
             "manga": "Manga: Episode 18"
@@ -2247,7 +2175,6 @@
                 "romanized": "Kiyonaga Matsumoto"
             }
         },
-        "nicknames": "",
         "occupation": "Tokyo Metropolitan Police Department Superintendent",
         "voice": [
             {
@@ -2258,8 +2185,8 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Masahiko Nishimura (1st)<br>Masato Ibu (2nd)",
         "first_appearance": {
             "anime": "Manga: Episode 1",
@@ -2278,7 +2205,6 @@
                 "romanized": "Juzo Megure"
             }
         },
-        "nicknames": "Inspector<br>Inspector-dono (Kogoro)",
         "occupation": "Tokyo Metropolitan Police Department Inspector",
         "voice": [
             {
@@ -2289,9 +2215,9 @@
     },
     {
         "age": 37,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Chapter 284<br>Anime: Episode 217",
             "manga": "Manga: Chapter 284<br>Anime: Episode 217"
@@ -2309,20 +2235,19 @@
                 "romanized": "Midori Megure"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ai Orikasa"
             }
         ]
     },
     {
         "age": 24,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 624",
             "manga": "Manga: Episode 624"
@@ -2340,20 +2265,19 @@
                 "romanized": "Naeko Miike"
             }
         },
-        "nicknames": "",
         "occupation": "Tokyo Metropolitan Police Department patrol officer",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Rie Tanaka"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Yaiba Chapter 1<br />Anime: OVA 1",
             "manga": "Yaiba Chapter 1<br />Anime: OVA 1"
@@ -2371,19 +2295,18 @@
                 "romanized": "Sayaka Mine"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Kotono Mitsuishi"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Seshiru Daigo",
         "first_appearance": {
             "anime": "TV Special 3",
@@ -2401,8 +2324,7 @@
                 "romanized": "Fujiko Mine"
             }
         },
-        "nicknames": "Fujiko-chan (Lupin III)",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "Cristina Vee",
@@ -2412,9 +2334,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 146",
             "manga": "Manga: Episode 146"
@@ -2432,11 +2354,10 @@
                 "romanized": "Yumi Miyamoto"
             }
         },
-        "nicknames": "",
         "occupation": "Tokyo Metropolitan Police Department patrol officer",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Yuu Sugimoto"
             }
         ]
@@ -2444,8 +2365,8 @@
     {
         "age": null,
         "aliases": "Masami Hirota (Michelle in Case Closed episode 14)",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: 128, though her previous appearance is ignored.)",
             "manga": "Manga: 128, though her previous appearance is ignored.)"
@@ -2463,7 +2384,6 @@
                 "romanized": "Akemi Miyano"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -2474,9 +2394,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "",
             "manga": ""
@@ -2494,20 +2414,19 @@
                 "romanized": "Atsushi Miyano"
             }
         },
-        "nicknames": "Mad Scientist (V38-2)",
         "occupation": "Black Organization member<br>Scientist",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": ""
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 329",
             "manga": "Manga: Episode 329"
@@ -2525,11 +2444,10 @@
                 "romanized": "Elena Miyano"
             }
         },
-        "nicknames": "\"Hell Angel\" (Black Organization)",
         "occupation": "Black Organization member<br>Scientist",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "[https://en.wikipedia.org/wiki/Hiroko_Suzuki_(voice_actress) Hiroko Suzuki]"
             }
         ]
@@ -2537,7 +2455,7 @@
     {
         "age": null,
         "aliases": "Ai Haibara (alias)<br />Sherry",
-        "date_of_birth": "Unknown<ref name=CD49/>",
+        "date_of_birth": "Unknown",
         "drama_actor": "Yu Kashii (Sherry)",
         "first_appearance": {
             "anime": "Manga: Episode 177",
@@ -2555,7 +2473,6 @@
                 "romanized": "Shiho Miyano"
             }
         },
-        "nicknames": "",
         "occupation": "Scientist",
         "voice": [
             {
@@ -2566,9 +2483,9 @@
     },
     {
         "age": 17,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Episode 219",
             "manga": "Episode 219"
@@ -2586,19 +2503,18 @@
                 "romanized": "Keiko Momoi"
             }
         },
-        "nicknames": "",
         "occupation": "Ekoda High School Student",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Yukiko Iwai (219)<br>Ai Kayano (Magic Kaito Specials)<br />Atsumi Tanezaki (Magic Kaito 1412)"
             }
         ]
     },
     {
         "age": 38,
-        "aliases": "",
-        "date_of_birth": "Unknown<ref name=\"CD59\" />",
+        "aliases": null,
+        "date_of_birth": "Unknown",
         "drama_actor": "Takanori Jinnai",
         "first_appearance": {
             "anime": "Manga: File 2 <br /> (mentioned in File 1) <br />Anime: [[Roller_Coaster_Murder_Case|Episode  \n1]]",
@@ -2617,7 +2533,6 @@
                 "romanized": "Kogoro Mouri"
             }
         },
-        "nicknames": "Sleeping Kogoro<br />The Sleeping Sleuth<br />Detective Moron<br />Smoking Kogoro<br />Shinigami (Death God)",
         "occupation": "Detective",
         "voice": [
             {
@@ -2628,7 +2543,7 @@
     },
     {
         "age": null,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "Unknown",
         "drama_actor": "Tomoka Kurokawa (1st)<br>Shiori Kutsuna (2nd)",
         "first_appearance": {
@@ -2648,7 +2563,6 @@
                 "romanized": "Ran Mouri"
             }
         },
-        "nicknames": "Ran-neechan (Kazuha)<br>Angel (Vermouth)",
         "occupation": "Teitan High School student",
         "voice": [
             {
@@ -2659,9 +2573,9 @@
     },
     {
         "age": 16,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "Unknown (September)",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Magic Kaito Chapter 1<br />Manga: File 159<br />Anime: Episode 76",
             "manga": "Magic Kaito Chapter 1<br />Manga: File 159<br />Anime: Episode 76"
@@ -2679,20 +2593,19 @@
                 "romanized": "Aoko Nakamori"
             }
         },
-        "nicknames": "",
         "occupation": "Ekoda High School Student",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ayumi Fujimura (Magic Kaito Specials)<br />M.A.O (Magic Kaito 1412)"
             }
         ]
     },
     {
         "age": 41,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Episode 76",
             "manga": "Episode 76"
@@ -2710,7 +2623,6 @@
                 "romanized": "Ginzo Nakamori"
             }
         },
-        "nicknames": "",
         "occupation": "Tokyo Metropolitan Police Department Division 2 Inspector",
         "voice": [
             {
@@ -2721,9 +2633,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 43",
             "manga": "Manga: Episode 43"
@@ -2741,20 +2653,19 @@
                 "romanized": "Night Baron"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
-                "japanese": ""
+                "english": null,
+                "japanese": null
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Anime: Movie 13",
             "manga": "Anime: Movie 13"
@@ -2772,7 +2683,6 @@
                 "romanized": "Masaaki Okakura"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -2783,8 +2693,8 @@
     },
     {
         "age": 21,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Becky",
         "first_appearance": {
             "anime": "Manga: File 6<br />Anime: Episode 3",
@@ -2803,7 +2713,6 @@
                 "romanized": "Yoko Okino"
             }
         },
-        "nicknames": "",
         "occupation": "Pop star idol",
         "voice": [
             {
@@ -2814,9 +2723,9 @@
     },
     {
         "age": 27,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 509",
             "manga": "Manga: Episode 509"
@@ -2834,20 +2743,19 @@
                 "romanized": "Subaru Okiya"
             }
         },
-        "nicknames": "",
         "occupation": "Graduate student<br />FBI agent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ryotaro Okiayu"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
@@ -2865,7 +2773,6 @@
                 "romanized": "Okumura"
             }
         },
-        "nicknames": "",
         "occupation": "Policeman",
         "voice": [
             {
@@ -2876,9 +2783,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 118",
             "manga": "Manga: Episode 118"
@@ -2896,7 +2803,6 @@
                 "romanized": "Goro Otaki"
             }
         },
-        "nicknames": "Otaki-han (Heiji)",
         "occupation": "Police Inspector",
         "voice": [
             {
@@ -2908,8 +2814,8 @@
     {
         "age": null,
         "aliases": "Kenzo Masuyama (real name)",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: File 239 <br> Anime: Episode 176",
             "manga": "Manga: File 239 <br> Anime: Episode 176"
@@ -2927,20 +2833,19 @@
                 "romanized": "Pisco"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Yasuo Muramatsu"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Anime: OVA 4",
             "manga": "Anime: OVA 4"
@@ -2958,8 +2863,7 @@
                 "romanized": "Rose"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -2969,9 +2873,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Unknown",
             "manga": "Unknown"
@@ -2988,20 +2892,19 @@
                 "romanized": "Rum"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization second-in-command",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Unknown (movie 20)"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
@@ -3019,7 +2922,6 @@
                 "romanized": "Saitoh"
             }
         },
-        "nicknames": "",
         "occupation": "Police detective",
         "voice": [
             {
@@ -3030,9 +2932,9 @@
     },
     {
         "age": null,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "? (~Bakumatsu Era)",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Chapter 475",
             "manga": "Manga: Chapter 475"
@@ -3050,8 +2952,7 @@
                 "romanized": "Samizu Kichiemon"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -3061,9 +2962,9 @@
     },
     {
         "age": 18,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Movie 16: The Eleventh Striker",
             "manga": "Movie 16: The Eleventh Striker"
@@ -3081,7 +2982,6 @@
                 "romanized": "Takahiro Sanada"
             }
         },
-        "nicknames": "",
         "occupation": "Big Osaka soccer player",
         "voice": [
             {
@@ -3092,7 +2992,7 @@
     },
     {
         "age": null,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "April (unknown date)",
         "drama_actor": "Natsuhi Ueno",
         "first_appearance": {
@@ -3112,7 +3012,6 @@
                 "romanized": "Miwako Sato"
             }
         },
-        "nicknames": "Sato (Shiratori)",
         "occupation": "Police Detective (Assistant Inspector)",
         "voice": [
             {
@@ -3123,9 +3022,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: File 937",
             "manga": "Manga: File 937"
@@ -3143,20 +3042,19 @@
                 "romanized": "Scotch"
             }
         },
-        "nicknames": "",
         "occupation": "Tokyo Metropolitan Police Department Public Security Bureau Agent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Hikaru Midorikawa"
             }
         ]
     },
     {
         "age": 16,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 646",
             "manga": "Manga: Episode 646"
@@ -3174,20 +3072,19 @@
                 "romanized": "Masumi Sera"
             }
         },
-        "nicknames": "",
         "occupation": "Teitan High School Student <br /> Detective",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Noriko Hidaka"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Movie 1",
             "manga": "Manga: Movie 1"
@@ -3205,7 +3102,6 @@
                 "romanized": "Ninzaburo Shiratori"
             }
         },
-        "nicknames": "",
         "occupation": "Police Inspector",
         "voice": [
             {
@@ -3217,8 +3113,8 @@
     {
         "age": null,
         "aliases": "Jackal",
-        "date_of_birth": "Unknown",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "OVA 4",
             "manga": "OVA 4"
@@ -3236,8 +3132,7 @@
                 "romanized": "Snake"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -3247,9 +3142,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
@@ -3267,7 +3162,6 @@
                 "romanized": "Sogawa"
             }
         },
-        "nicknames": "",
         "occupation": "Policeman",
         "voice": [
             {
@@ -3279,8 +3173,8 @@
     {
         "age": 28,
         "aliases": "Jodie Saintemillion",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 226",
             "manga": "Manga: Episode 226"
@@ -3298,26 +3192,25 @@
                 "romanized": "Jodie Starling"
             }
         },
-        "nicknames": "",
         "occupation": "FBI Agent, english teacher",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Miyuki Ichijou<br>Yumi Toma (young)"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
         },
         "gender": "Male",
-        "image": "",
+        "image": null,
         "keyhole": null,
         "name": {
             "english": {
@@ -3329,7 +3222,6 @@
                 "romanized": "Sugita"
             }
         },
-        "nicknames": "",
         "occupation": "Policeman",
         "voice": [
             {
@@ -3340,9 +3232,9 @@
     },
     {
         "age": 72,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "November 29",
-        "drama_actor": "",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 356",
             "manga": "Manga: Episode 356"
@@ -3360,7 +3252,6 @@
                 "romanized": "Jirokichi Suzuki"
             }
         },
-        "nicknames": "",
         "occupation": "Suzuki Financial Group Senior Advisor",
         "voice": [
             {
@@ -3371,8 +3262,8 @@
     },
     {
         "age": 17,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Mayuko Iwasa (1st)<br>Sayaka Akimoto (2nd)",
         "first_appearance": {
             "anime": "Manga: Episode 6",
@@ -3391,7 +3282,6 @@
                 "romanized": "Sonoko Suzuki"
             }
         },
-        "nicknames": "Deduction Queen Sonoko <br> Annoying Sonoko (Genta)",
         "occupation": "Teitan High School Student",
         "voice": [
             {
@@ -3402,8 +3292,8 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Yuichi Tsuchiya",
         "first_appearance": {
             "anime": "Manga: Episode 21",
@@ -3422,7 +3312,6 @@
                 "romanized": "Wataru Takagi"
             }
         },
-        "nicknames": "Takagi-kun (Ayumi)",
         "occupation": "Tokyo Metropolitan Police Department Detective",
         "voice": [
             {
@@ -3433,9 +3322,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 358",
             "manga": "Manga: Episode 358"
@@ -3453,7 +3342,6 @@
                 "romanized": "Takano"
             }
         },
-        "nicknames": "",
         "occupation": "Assistant Police Inspector",
         "voice": [
             {
@@ -3464,9 +3352,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: File 114<br />Anime: Episode 54",
             "manga": "Manga: File 114<br />Anime: Episode 54"
@@ -3484,7 +3372,6 @@
                 "romanized": "Tequila"
             }
         },
-        "nicknames": "",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -3495,9 +3382,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 479",
             "manga": "Manga: Episode 479"
@@ -3515,8 +3402,7 @@
                 "romanized": "Junya Tokitsu"
             }
         },
-        "nicknames": "Detective of the North",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
                 "english": "",
@@ -3526,9 +3412,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 118",
             "manga": "Manga: Episode 118"
@@ -3546,7 +3432,6 @@
                 "romanized": "Ginshiro Toyama"
             }
         },
-        "nicknames": "",
         "occupation": "Osaka Prefecture Police Chief Criminal Investigator",
         "voice": [
             {
@@ -3557,8 +3442,8 @@
     },
     {
         "age": 17,
-        "aliases": "",
-        "date_of_birth": "Unknown<ref name=CD57/>",
+        "aliases": null,
+        "date_of_birth": "Unknown",
         "drama_actor": "Rei Okamoto",
         "first_appearance": {
             "anime": "Manga: Episode 118",
@@ -3577,7 +3462,6 @@
                 "romanized": "Kazuha Toyama"
             }
         },
-        "nicknames": "",
         "occupation": "High School Student",
         "voice": [
             {
@@ -3588,9 +3472,9 @@
     },
     {
         "age": 6,
-        "aliases": "",
-        "date_of_birth": "Unknown<ref name=CD53/>",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": "Unknown",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 1",
             "manga": "Manga: Episode 1"
@@ -3608,7 +3492,6 @@
                 "romanized": "Mitsuhiko Tsuburaya"
             }
         },
-        "nicknames": "",
         "occupation": "Teitan Elementary School student <br /> Detective Boys member",
         "voice": [
             {
@@ -3620,8 +3503,8 @@
     {
         "age": 29,
         "aliases": "Yui Torada",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 516",
             "manga": "Manga: Episode 516"
@@ -3639,7 +3522,6 @@
                 "romanized": "Yui Uehara"
             }
         },
-        "nicknames": "",
         "occupation": "Police Detective",
         "voice": [
             {
@@ -3651,8 +3533,8 @@
     {
         "age": null,
         "aliases": "Chris Vineyard <br /> Sharon Vineyard",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 176",
             "manga": "Manga: Episode 176"
@@ -3669,7 +3551,6 @@
                 "romanized": "Vermouth"
             }
         },
-        "nicknames": "Rotten Apple (FBI)",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -3680,8 +3561,8 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
+        "aliases": null,
+        "date_of_birth": null,
         "drama_actor": "Taro Okada",
         "first_appearance": {
             "anime": "Manga: Episode 1",
@@ -3700,7 +3581,6 @@
                 "romanized": "Vodka"
             }
         },
-        "nicknames": "{{nihongo|\u9b5a\u585a \u4e09\u90ce|Uotsuka Saburo}} (alias used in guestbook)",
         "occupation": "Black Organization member",
         "voice": [
             {
@@ -3711,9 +3591,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 96",
             "manga": "Manga: Episode 96"
@@ -3731,7 +3611,6 @@
                 "romanized": "Misao Yamamura"
             }
         },
-        "nicknames": "",
         "occupation": "Gunma Prefecture Police Inspector",
         "voice": [
             {
@@ -3742,9 +3621,9 @@
     },
     {
         "age": 35,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 516",
             "manga": "Manga: Episode 516"
@@ -3762,7 +3641,6 @@
                 "romanized": "Kansuke Yamato"
             }
         },
-        "nicknames": "Kan-chan (Komei)",
         "occupation": "Nagano Prefectural Police Inspector",
         "voice": [
             {
@@ -3773,9 +3651,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Chapter 234<br />Anime: Episode 170",
             "manga": "Manga: Chapter 234<br />Anime: Episode 170"
@@ -3792,20 +3670,19 @@
                 "romanized": "Hikaru Yasumoto"
             }
         },
-        "nicknames": "",
-        "occupation": "",
+        "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Akiko Hiramatsu"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 284",
             "manga": "Manga: Episode 284"
@@ -3823,20 +3700,19 @@
                 "romanized": "Jugo Yokomizo"
             }
         },
-        "nicknames": "",
         "occupation": "Kanagawa Prefecture Police Inspector",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Akio Otsuka"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 9",
             "manga": "Manga: Episode 9"
@@ -3854,7 +3730,6 @@
                 "romanized": "Sango Yokomizo"
             }
         },
-        "nicknames": "",
         "occupation": "Shizuoka Prefecture Police Inspector",
         "voice": [
             {
@@ -3865,9 +3740,9 @@
     },
     {
         "age": 23,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 652",
             "manga": "Manga: Episode 652"
@@ -3885,7 +3760,6 @@
                 "romanized": "Sakurako Yonehara"
             }
         },
-        "nicknames": "",
         "occupation": "Housekeeper",
         "voice": [
             {
@@ -3896,9 +3770,9 @@
     },
     {
         "age": 6,
-        "aliases": "",
-        "date_of_birth": "Unknown<ref name=CD54/>",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": "Unknown",
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 1",
             "manga": "Manga: Episode 1"
@@ -3916,7 +3790,6 @@
                 "romanized": "Ayumi Yoshida"
             }
         },
-        "nicknames": "",
         "occupation": "Teitan Elementary School student <br /> Detective Boys member",
         "voice": [
             {
@@ -3927,9 +3800,9 @@
     },
     {
         "age": null,
-        "aliases": "",
-        "date_of_birth": "",
-        "drama_actor": "",
+        "aliases": null,
+        "date_of_birth": null,
+        "drama_actor": null,
         "first_appearance": {
             "anime": "Manga: Episode 325",
             "manga": "Manga: Episode 325"
@@ -3947,18 +3820,17 @@
                 "romanized": "Inspector Yuminaga"
             }
         },
-        "nicknames": "Fiery Old Fossil (Kogoro Mouri)",
         "occupation": "Police Inspector<br /> Inspector in the Arson section of C.I. Division 1",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Natsuo Tokuhiro"
             }
         ]
     },
     {
         "age": null,
-        "aliases": "",
+        "aliases": null,
         "date_of_birth": "December 25, 1937 (or 1938)",
         "drama_actor": "Seika Yumeno",
         "first_appearance": {
@@ -3977,7 +3849,6 @@
                 "romanized": "Koichi Zenigata"
             }
         },
-        "nicknames": "Pops (''Tottsan'')",
         "occupation": "ICPO Inspector",
         "voice": [
             {

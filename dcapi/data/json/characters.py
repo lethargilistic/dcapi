@@ -23,7 +23,7 @@ def filter_infobox_entry(entry):
                     re.DOTALL|re.MULTILINE) #remove comments
 
     #Remove references
-    entry = re.sub(r'<ref.*?</ref>', '', 
+    entry = re.sub(r'<ref.*?(?:</ref>|/>)', '', 
                     entry, 
                     re.DOTALL|re.MULTILINE) #remove comments
 
@@ -82,24 +82,26 @@ def prepare_json(infoboxes_list):
         try:
             print(original_dict['name'])
             english_name = original_dict['english-name'] if original_dict['english-name'] else original_dict['name']
+            if not english_name:
+                english_name = None
 
             fixed_dict = dict()
-            fixed_dict['name'] = {'japanese':{'romanized':original_dict['name'],
-                                              'kanji':original_dict['japanese-name']},
+            fixed_dict['name'] = {'japanese':{'romanized':original_dict.get('name', None),
+                                              'kanji':original_dict.get('japanese-name', None)},
                                   'english':{'anime':english_name,
                                              'manga':english_name}}
             try:
-                fixed_dict['age'] = int(original_dict.get('age')) if original_dict.get('age', '') else None
+                fixed_dict['age'] = int(original_dict.get('age')) if original_dict.get('age', None) else None
             except ValueError:
                 fixed_dict['age'] = None
-            fixed_dict['gender'] = original_dict.get('gender', 'Unknown')
-            fixed_dict['date_of_birth'] = original_dict.get('date-of-birth', 'Unknown')
-            fixed_dict['occupation'] = original_dict.get('occupation', '')
-            fixed_dict['nicknames'] = original_dict.get('nicknames', '')
-            fixed_dict['aliases'] = original_dict.get('aliases', '')
-            fixed_dict['image'] = original_dict.get('image', '')
-            fixed_dict['first_appearance'] = {'manga':original_dict['first-appearance'],
-                                              'anime':original_dict['first-appearance']}
+            fixed_dict['gender'] = original_dict.get('gender', None)
+            fixed_dict['date_of_birth'] = original_dict.get('date-of-birth', None)
+            fixed_dict['occupation'] = original_dict.get('occupation', None)
+            #fixed_dict['nicknames'] = original_dict.get('nicknames', None)
+            fixed_dict['aliases'] = original_dict.get('aliases', None)
+            fixed_dict['image'] = original_dict.get('image', None)
+            fixed_dict['first_appearance'] = {'manga':original_dict.get('first-appearance', None),
+                                              'anime':original_dict.get('first-appearance', None)}
             #TODO: Figure out how many cases solved via case data. 5(6 as Subaru) is possible in infoboxes.
             #fixed_dict['cases_solved'] = int(original_dict.get('cases-solved')) if original_dict.get('cases-solved', '') else 0
             #7 cuts off the 'Volume ' in keyhole data
@@ -110,9 +112,9 @@ def prepare_json(infoboxes_list):
 
             except ValueError:
                 fixed_dict['age'] = None
-            fixed_dict['voice'] = {'japanese':original_dict.get('japanese-voice', ''),
-                                   'english':original_dict.get('english-voice', '')},
-            fixed_dict['drama_actor'] = original_dict.get('drama-actor', '')
+            fixed_dict['voice'] = {'japanese':original_dict.get('japanese-voice', None),
+                                   'english':original_dict.get('english-voice', None)},
+            fixed_dict['drama_actor'] = original_dict.get('drama-actor', None)
             fixed_list.append(fixed_dict)
         except:
             import sys
@@ -123,34 +125,7 @@ def prepare_json(infoboxes_list):
         for field in character:
             if not character[field]:
                 fixed_list[i][field] = None
-        return fixed_list
-            
-    '''
-     {'name': 'Hiroshi Agasa'},
-     {'japanese-name': '阿笠 博士<br>(Agasa Hiroshi)'},
-     {'english-name': 'Hershel Agasa'},
-     {'image': 'Hiroshi Agasa Profile.jpg'},
-     {'age': '53'},
-     {'gender': 'Male'},
-     {'height': '160 cm (5\'3")'},
-     {'date-of-birth': 'Unknown'},
-     {'relatives': 'Kurisuke Agasa (great-uncle)<br>Teiko Agasa '
-		   "(great-aunt)<br>Unnamed cousin<br>Unnamed cousin's "
-		   'granddaughter'},
-     {'occupation': 'Engineer <br /> Inventor'},
-     {'aliases': 'Professor Agasa <br> Dr. Agasa'},
-     {'nicknames': 'Professor (Ai Haibara) <br> Professor Agasa (Conan Edogawa, '
-		   'Detective Boys)'},
-     {'first-appearance': 'Manga: File 2<br />Anime: Episode 1'},
-     {'appearances': '{{:Hiroshi Agasa Appearances}}'},
-     {'cases-solved': ''},
-     {'keyhole': 'Volume 5'},
-     {'japanese-voice': 'Kenichi Ogata<br>Kazunari Tanaka (young)'},
-     {'english-voice': 'Bill Flynn'},
-     {'drama-actor': 'Ryosei Tayama'},
-     {'footnotes': ''}]
-    '''
-
+    return fixed_list
  
 if __name__ == '__main__':
     names = get_character_list()
