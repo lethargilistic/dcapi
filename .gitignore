@@ -1,3 +1,5 @@
+__pycache__/*
+
 dcapi/logs/*
 dcapi/keys.py
 dcapi/__pycache__/*
