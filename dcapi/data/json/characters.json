@@ -84,7 +84,7 @@
         "occupation": "FBI Agent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Shuichi Ikeda"
             }
         ]
@@ -145,7 +145,7 @@
         "voice": [
             {
                 "english": null,
-                "japanese": ""
+                "japanese": null
             }
         ]
     },
@@ -174,7 +174,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ryotaro Okiayu"
             }
         ]
@@ -204,7 +204,7 @@
         "occupation": "FBI Agent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Iemasa Kayumi (1933-2014)<br /> Takaya Hashi"
             }
         ]
@@ -235,7 +235,7 @@
         "voice": [
             {
                 "english": null,
-                "japanese": ""
+                "japanese": null
             }
         ]
     },
@@ -264,7 +264,7 @@
         "occupation": "Black Organization Boss",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "None as of yet"
             }
         ]
@@ -295,7 +295,7 @@
         "voice": [
             {
                 "english": null,
-                "japanese": ""
+                "japanese": null
             }
         ]
     },
@@ -324,7 +324,7 @@
         "occupation": "FBI Agent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Kiyoyuki Yanada"
             }
         ]
@@ -354,7 +354,7 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Eiko Masuyama<br>Chieko Honda (child)"
             }
         ]
@@ -414,7 +414,7 @@
         "occupation": "Black Organization member",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Kikuko Inoue"
             }
         ]
@@ -474,7 +474,7 @@
         "occupation": "Police Detective",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Keiji Fujiwara"
             }
         ]
@@ -504,7 +504,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Takehiko Murozono"
             }
         ]
@@ -534,7 +534,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Yasuhiko Kawazu"
             }
         ]
@@ -564,7 +564,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Shinya \u014ctaki"
             }
         ]
@@ -654,7 +654,7 @@
         "occupation": "Police Inspector",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ginga Banjo"
             }
         ]
@@ -684,7 +684,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Yasuhiko Kawazu<br />Kiyoshi Yanada<br />Eiji Yanagisawa"
             }
         ]
@@ -745,7 +745,7 @@
         "voice": [
             {
                 "english": null,
-                "japanese": ""
+                "japanese": null
             }
         ]
     },
@@ -805,7 +805,7 @@
         "voice": [
             {
                 "english": null,
-                "japanese": ""
+                "japanese": null
             }
         ]
     },
@@ -834,8 +834,8 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
-                "japanese": ""
+                "english": null,
+                "japanese": null
             }
         ]
     },
@@ -894,7 +894,7 @@
         "occupation": "Ekoda High School Student <br /> Detective",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Akira Ishida<br />Mamoru Miyano (Magic Kaito 1412)"
             }
         ]
@@ -924,8 +924,8 @@
         "occupation": "Shogi player",
         "voice": [
             {
-                "english": "",
-                "japanese": ""
+                "english": null,
+                "japanese": null
             }
         ]
     },
@@ -954,7 +954,7 @@
         "occupation": "Shogi player",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Toshiyuki Morikawa"
             }
         ]
@@ -1074,7 +1074,7 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Masako Katsuki"
             }
         ]
@@ -1104,7 +1104,7 @@
         "occupation": "Soccer Player",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Takahiro Sakurai"
             }
         ]
@@ -1134,7 +1134,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Isshin Chiba<br> Katsumi Toriumi<br> Shigeru Shibuya"
             }
         ]
@@ -1254,7 +1254,7 @@
         "occupation": "Police detective",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Hisao Egawa<br />Kenji Hamada<br />Hiroshi Kawaguchi<br />Hiromichi Kogami"
             }
         ]
@@ -1314,7 +1314,7 @@
         "occupation": "Swordmaster<br />Thief",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Gor\u014d Naya (1969) <br> Osamu Kobayashi (1969) <br> Chikao \u014ctsuka (1971-1972) <br> Makio Inoue (1977-1985, 1989-2010) <br> Kaneto Shiozawa (1987) <br> Daisuke Namikawa (2011-present)"
             }
         ]
@@ -1494,7 +1494,7 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Wataru Takagi"
             }
         ]
@@ -1524,7 +1524,7 @@
         "occupation": "Police detective",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Junichi Sugawara"
             }
         ]
@@ -1614,7 +1614,7 @@
         "occupation": "Camerawoman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Mirei Kiritani (Movie 16) <br> Ryoko Shiraishi (Episode 742)"
             }
         ]
@@ -1734,7 +1734,7 @@
         "occupation": "Black Organization member",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Hiroyuki Kinoshita"
             }
         ]
@@ -1764,7 +1764,7 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Risa Hayamizu"
             }
         ]
@@ -1884,7 +1884,7 @@
         "occupation": "Prosecutor",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Rica Matsumoto"
             }
         ]
@@ -1944,7 +1944,7 @@
         "occupation": "Magician",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Shuichi Ikeda"
             }
         ]
@@ -1974,7 +1974,7 @@
         "occupation": "Police Superintendent",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Yukimasa Kishino"
             }
         ]
@@ -2034,7 +2034,7 @@
         "occupation": "Student<br />Karate Club Captain<br />Karate Champion",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Nobuyuki Hiyama"
             }
         ]
@@ -2064,7 +2064,7 @@
         "occupation": "Phantom thief",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Kanichi Kurita"
             }
         ]
@@ -2087,14 +2087,14 @@
                 "manga": "Magic Kaito Boss"
             },
             "japanese": {
-                "kanji": "",
+                "kanji": null,
                 "romanized": "Magic Kaito Boss"
             }
         },
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "None as of yet"
             }
         ]
@@ -2117,14 +2117,14 @@
                 "manga": "Magic Kaito Sub-boss"
             },
             "japanese": {
-                "kanji": "",
+                "kanji": null,
                 "romanized": "Magic Kaito Sub-boss"
             }
         },
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Sh\u014dz\u014d Iizuka (Magic Kaito Special)<br /> Kinry\u016b Arimoto (Magic Kaito 1412)"
             }
         ]
@@ -2154,7 +2154,7 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Nobutoshi Canna"
             }
         ]
@@ -2405,8 +2405,8 @@
         "date_of_birth": null,
         "drama_actor": null,
         "first_appearance": {
-            "anime": "",
-            "manga": ""
+            "anime": null,
+            "manga": null
         },
         "gender": "Male",
         "image": "Atsushi Miyano Profile.jpg",
@@ -2425,7 +2425,7 @@
         "voice": [
             {
                 "english": null,
-                "japanese": ""
+                "japanese": null
             }
         ]
     },
@@ -2484,7 +2484,7 @@
         "occupation": "Scientist",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Megumi Hayashibara"
             }
         ]
@@ -2694,8 +2694,8 @@
         "occupation": "Black Organization member",
         "voice": [
             {
-                "english": "",
-                "japanese": ""
+                "english": null,
+                "japanese": null
             }
         ]
     },
@@ -2784,7 +2784,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ken Narita"
             }
         ]
@@ -2874,7 +2874,7 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Mariko Suzuki"
             }
         ]
@@ -2934,7 +2934,7 @@
         "occupation": "Police detective",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Dai Matsumoto<br />Masahiko Horio"
             }
         ]
@@ -2964,8 +2964,8 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
-                "japanese": ""
+                "english": null,
+                "japanese": null
             }
         ]
     },
@@ -2994,7 +2994,7 @@
         "occupation": "Big Osaka soccer player",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Hiroyuki Yoshino"
             }
         ]
@@ -3144,7 +3144,7 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Jurota Kosugi (Magic Kaito 1412)"
             }
         ]
@@ -3174,7 +3174,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Tomoya Kawai<br />Takashi Nagasako"
             }
         ]
@@ -3234,7 +3234,7 @@
         "occupation": "Policeman",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Hiromichi Koyama"
             }
         ]
@@ -3264,7 +3264,7 @@
         "occupation": "Suzuki Financial Group Senior Advisor",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ichiro Nagai (Ep. 356~725)<br />Kosei Tomita (Ep. 746~)"
             }
         ]
@@ -3354,7 +3354,7 @@
         "occupation": "Assistant Police Inspector",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Koji Ishii"
             }
         ]
@@ -3414,7 +3414,7 @@
         "occupation": null,
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Shinichiro Miki"
             }
         ]
@@ -3534,7 +3534,7 @@
         "occupation": "Police Detective",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Ami Koshimizu"
             }
         ]
@@ -3564,7 +3564,7 @@
         "occupation": "Black Organization member",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Mami Koyama"
             }
         ]
@@ -3654,7 +3654,7 @@
         "occupation": "Nagano Prefectural Police Inspector",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Yuji Takada"
             }
         ]
@@ -3774,7 +3774,7 @@
         "occupation": "Housekeeper",
         "voice": [
             {
-                "english": "",
+                "english": null,
                 "japanese": "Sakura Tange"
             }
         ]
